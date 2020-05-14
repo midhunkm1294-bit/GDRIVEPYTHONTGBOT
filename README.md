@@ -1,4 +1,6 @@
-# What is this repo about?
+# What is this repo about?😆
+
+BY @Mariodevs
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
 
 # Inspiration 
@@ -57,6 +59,10 @@ OR use online terminal
 
 ``` python3 generate_drive_token.py ```
 ___
+
+NB: Usage of Aria2 may leads to the suspension of your heroku account so deploy at your own risk. Steps: API_HASH: https://my.telegram.org API_ID: https://my.telegram.org AUTH_CHATS: @MissRose_bot BOT_TOKEN: @BotFather Google Drive: https://www.google.com/drive/ INDEX_URL: https://github.com/maple3142/GDIndex/ Cloud Flare : cloudflare.com OAuth API credential: https://console.cloud.google.com SECRET_JSON : https://gdrive-auth.cw4rr10r.repl.run/ SESSION_STRING: https://gen-session.cw4rr10r.repl.run/ Note: You can limit maximum concurrent downloads by changing the value of MAX_CONCURRENT_DOWNLOADS in aria.sh. By default, it's set to 2
+
+
 
 
 Fill up rest of the fields in app.json. Meaning of each fields are discussed below:
